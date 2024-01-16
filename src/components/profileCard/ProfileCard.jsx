@@ -11,7 +11,7 @@ const ProfileCard = () => {
         <img src={Profile} alt="profile" />
       </div>
       <div className="profileName">
-        <span>Mohit Tyagi</span>
+        <span>Shivam Shrivastava</span>
         <span>Tech Lead</span>
       </div>
       <div className="followStatus">
